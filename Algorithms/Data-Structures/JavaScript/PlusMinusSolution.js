@@ -10,9 +10,9 @@ function plusMinus(arr) {
     else if(i <  0) n++
     else z++
   })
-  // FIXME: Make sure to output up to 6 decimals
-  console.log(p/size);
-  console.log(n/size);
-  console.log(z/size);
+  // Outputs numbers to fixed decimal
+  console.log((p/size).toFixed(5));
+  console.log((n/size).toFixed(5));
+  console.log((z/size).toFixed(5));
 }
 plusMinus([-4,3,-9,0,4,1])
