@@ -9,11 +9,21 @@
 
 function minimumNumber(n, password) {
     // Return the minimum number of characters to make the password strong
-    var isLength = false, hasDigit = false, hasLower = false, hasUpper = false, hasSpecialChar = false;
-    var containsDigit = new RegExp('/[0-9]/','g')
-    var containsLower = new RegExp('/[^]')
-    var containsUpper = new RegExp('/[^]')
-    var containsSpecial = new RegExp('/[^]')
+    var count = 0;
+    var containsDigit = /[0-9]/g.test(password);
+    var containsLower = /[a-z]/g.test(password);
+    var containsUpper = /[A-Z]/g.test(password);
+    var containsSpecial = /[-!@#$%^&*()+]/g.test(password);
 
+    if(!containsDigit) count++;
+    if(!containsLower) count++;
+    if(!containsUpper) count++;
+    if(!containsSpecial) count++;
+    if((count+password.length)<6){
+      count = count + 6 - (count+password.length);
+    }
+    console.log(count);
+    return count;
 }
-minimumNumber(1,2)
+
+minimumNumber(7,"AUzs-nV")
