@@ -1,3 +1,4 @@
-function readLine() {
-    return inputString[currentLine++];
+// Complete the plusMinus function below.
+function plusMinus(arr) {
+
 }
