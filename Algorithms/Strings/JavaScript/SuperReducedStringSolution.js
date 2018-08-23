@@ -3,19 +3,36 @@ function superReducedString(s) {
   //ascii range a-z -> 097-127
   //try regexing for each character
   var arr = [];
-  var expression = '';
-  for(var i = 97; i <= 122; i++) arr.push(String.fromCharCode(i));
+  var expression = s;
+  for(var i = 97; i <= 122; i++){
+    var l = String.fromCharCode(i)
+    arr.push(l+l);
+  }
+  for(var j = 0; j < arr.length; j++){
+    var currentSearch = arr[j]
+    var index = expression.indexOf(currentSearch);
+    if( index != -1){
 
-  arr.forEach((i) => {
-    //new RegExp since regex doesn't take string literals
-    var regex = new RegExp(i,'g')
-    //counts the matching characters based on the RegExp
-    var count = (s.match(regex) || []).length
-    //if matching
-    if((count % 2) == 1){
-      expression += i
+      // expression = expression.slice(index, index+1)
+      // console.log(expression);
+      // console.log(begin + after);
     }
-  });
+  }
+  // arr.forEach((i) => {
+  //   //new RegExp since regex doesn't take string literals
+  //   var regex = new RegExp(i+i,'g')
+  //   // console.log(regex);
+  //   //counts the matching characters based on the RegExp
+  //   var count = (s.match(regex) || []).length
+  //   //if matching
+  //   if((count % 2) == 1){
+  //     expression += i
+  //   }
+  // });
+  // console.log(expression);
   if(expression.length === 0) return "Empty String";
   else return expression;
 }
+
+
+superReducedString("aaabc")
