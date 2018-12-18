@@ -7,7 +7,7 @@ function vowelsAndConsonants(s) {
     var con = [];
     s = s.split('');
     s.forEach((i) => {
-        if((/[a|A]|[e|E]|[i|I]|[o|I]|[u|U]/g.test(i))){
+        if((/git pull[a|A]|[e|E]|[i|I]|[o|I]|[u|U]/g.test(i))){
           vow.push(i);
         }
         else{
