@@ -1,4 +1,4 @@
-#!/home/nick/Documents/GitHub/HackerRank/venv/bin/python
+#!/Users/Nick/Documents/GitHub/Technical-Interview-Prep/HackerRank/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip'
 __requires__ = 'pip==10.0.1'
 import re

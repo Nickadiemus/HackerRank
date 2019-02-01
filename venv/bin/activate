@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/nick/Documents/GitHub/HackerRank/venv"
+VIRTUAL_ENV="/Users/Nick/Documents/GitHub/Technical-Interview-Prep/HackerRank/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
