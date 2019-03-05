@@ -1,11 +1,4 @@
-# def research():
-#     wow ="Wow"
-#     for i in range(100000):
-#         wow += " " + wow
-#         print(wow)
-#
-# research()
-#
+
 def computeHourGlass(position, arr):
     hgp = lambda p: [[p - 1, p - 1], [p, p - 1], [p + 1, p - 1], [ p, p ], [p - 1, p + 1],[p, p + 1],[p + 1, p + 1]]
     hg = hgp(position)

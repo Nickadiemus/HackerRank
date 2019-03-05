@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89e05bdd-8a16-4db6-84a1-7b480fe4703c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/Python/Kangaroo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/Python/MisereNim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/Python/SimpleArraySum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Data-Structures/Python/2DArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/TwoCharactersSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/10 Days of JavaScript/Factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/10 Days of JavaScript/Factorial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/BirthdayCakeCandlesSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/BirthdayCakeCandlesSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/CompareTheTripletsSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/CompareTheTripletsSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/DiagonalDifferenceSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/DiagonalDifferenceSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/MiniMaxSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/MiniMaxSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/PlusMinusSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/PlusMinusSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/SimpleArraySumSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/SimpleArraySumSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/StairCaseSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/StairCaseSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/TimeConversionSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/TimeConversionSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Data-Structures/JavaScript/VeryBigSumSoltion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/JavaScript/VeryBigSumSoltion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Implementation/JavaScript/AppleAndOrange.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Implementation/JavaScript/AppleAndOrange.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Implementation/JavaScript/CountingValleys.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Implementation/JavaScript/CountingValleys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/BeautifulBinarySolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/BeautifulBinarySolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/CaesarCipherSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/CaesarCipherSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/CamelCaseSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/CamelCaseSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/ConsonantsVowsSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/ConsonantsVowsSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/StrongPasswordSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/StrongPasswordSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/SuperReducedStringSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Strings/JavaScript/SuperReducedStringSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Strings/JavaScript/TwoCharactersSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Algorithms/Python/BetweenTwoSets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving/Data-Structures/Python/2DArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving/Data-Structures/Python/2DArray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problem Solving/Data-Structures/Python/2DArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -130,7 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../College/CS 463G/Project1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -237,23 +214,22 @@
       <option name="presentableId" value="Default" />
       <updated>1548697861094</updated>
       <workItem from="1548697863559" duration="101000" />
-      <workItem from="1548784988974" duration="10480000" />
+      <workItem from="1548784988974" duration="11968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10581000" />
+    <option name="totallyTimeSpent" value="12069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1175" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18303095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18303095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3250478" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3250478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem Solving/Data-Structures/Python/2DArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
